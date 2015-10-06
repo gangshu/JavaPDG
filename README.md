@@ -22,5 +22,5 @@ Xianghao Chen	xianghao.chen [at] case [dot] edu
 ```
 ---
 ## The workflow of JavaPDG
-![solarized symmetry](http://selserver.case.edu:8080/javapdg/pic/workflow_big.JPG)
+![The workflow of JavaPDG](http://selserver.case.edu:8080/javapdg/pic/workflow_big.JPG)
 ---
